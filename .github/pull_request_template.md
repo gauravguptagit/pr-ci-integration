@@ -4,20 +4,20 @@
 
 ---
 
-**Please specify tags ?** 
+**Please specify branch to use for FE ?** (If not specified, default is `master`)
+<!-- To be part of edu-api PR template -->
+FE-BRANCH: [ ]
 
-<!-- Answer below. `>` represents a block quote below -->
 
->
+**Please specify branch to use for BE ?** (If not specified, default is `master`)
+<!-- To be part of edulastic-poc PR template -->
+BE-BRANCH: [ ]
 
----
 
-**Please specify comma seperated tags within [ ] from below tags list for impacted areas?** (For eg - [tag1,tag2])
-
+**Please specify comma seperated tags to run tests from, within [ ] from below tags list?** (For eg - [tag1,tag2], To skip automated tests execution, keep empty i.e. [] )
 <!-- Answer below. `>` represents a test tags to pick for automation execution -->
 
-
-[ ]
+TEST-TAGS: [ ]
 
 
 **Tag Reference**
